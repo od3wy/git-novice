@@ -1,0 +1,5 @@
+Hello World
+git status
+git add foo.txt
+git commit -m 'add foo.txt'
+git push
